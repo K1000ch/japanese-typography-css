@@ -16,12 +16,6 @@
     "url": "https://github.com/K1000ch/japanese-typography-css/issues"
   },
   "homepage": "https://github.com/K1000ch/japanese-typography-css#readme",
-  "devDependencies": {
-    "gulp-autoprefixer": "^6.1.0",
-    "gulp-plumber": "^1.2.1",
-    "gulp-sass": "^4.0.2"
-  },
-  "dependencies": {
-    "npm-check-updates": "^3.1.20"
-  }
+  "devDependencies": {},
+  "dependencies": {}
 }
