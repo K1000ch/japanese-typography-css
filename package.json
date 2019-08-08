@@ -19,6 +19,8 @@
   "devDependencies": {
     "gulp-autoprefixer": "^6.1.0",
     "gulp-plumber": "^1.2.1",
-    "gulp-sass": "^4.0.2"
-  }
+    "gulp-sass": "^4.0.2",
+    "gulp-scss": "^1.4.0"
+  },
+  "dependencies": {}
 }
